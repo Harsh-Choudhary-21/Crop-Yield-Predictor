@@ -29,5 +29,5 @@ The dataset is sourced directly from **Kaggle** via [KaggleHub](https://github.c
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/crop-yield-linear-regression.git
+git clone https://github.com/Harsh-Choudhary-21/crop-yield-linear-regression.git
 cd crop-yield-linear-regression
