@@ -1,0 +1,35 @@
+{
+  "dataset": "patelris/crop-yield-prediction-dataset",
+  "file_path": "",
+  "original_features": [
+    "Unnamed_0",
+    "Year",
+    "average_rain_fall_mm_per_year",
+    "pesticides_tonnes",
+    "avg_temp",
+    "Area",
+    "Item"
+  ],
+  "processed_features": [
+    "Unnamed_0",
+    "Year",
+    "average_rain_fall_mm_per_year",
+    "pesticides_tonnes",
+    "avg_temp",
+    "Area",
+    "Item"
+  ],
+  "target": "hgha_yield",
+  "epochs": 50,
+  "batch_size": 32,
+  "test_size": 0.2,
+  "final_test_mse": 13134949376.0,
+  "final_test_mae": 76771.8828125,
+  "r2_score": -0.8108001162992142,
+  "trained_on": "2025-08-29T21:12:46.193733",
+  "dataset_shape": [
+    28242,
+    8
+  ],
+  "final_training_samples": 22593
+}
